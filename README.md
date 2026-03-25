@@ -59,7 +59,7 @@ To interact with this AI Instructor:
 
 ## Contact Us
 
-For questions, you can [contact the repo author](mailto:pranilshah08@gmail.com).
+For questions, you can [contact the repo author](mailto:shrushtipatel1207@gmail.com).
 
 
 ## Contributing
